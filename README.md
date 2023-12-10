@@ -51,3 +51,4 @@ Introduction to Computer Vision (AAI-521-02) Group 6 Final Project Repository
   - Score-ManualCount-t6.xlsx: The manual counting for setting a test ground truth values
   - people_count.xlsx: The file export from code to the use of the Tableau monitoring system
   - rep_result.mp4: The output MP4 file from the code with tracking and people count
+  - Tableau link: https://public.tableau.com/app/profile/adam.graves8577/viz/AAI521-T6/Dashboard1#1
