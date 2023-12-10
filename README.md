@@ -43,3 +43,11 @@ Introduction to Computer Vision (AAI-521-02) Group 6 Final Project Repository
 - Reed to review the code Adam made and add general camera code
 - Christi to complete the Project documentation and review sections that Adam added
 - Set up meeting for 12/9/23 @ 5:00 PM
+## 12/10/2023 Progress Report
+- Finalizing the files required for the project:
+  - AAI 521 Team 6 Final Report.docx: Project report
+  - AAI521-ProjectRequirements.pdf: Original requirements
+  - AAI521_Team6_Final.ipynb: Python Code (Version control)
+  - Score-ManualCount-t6.xlsx: The manual counting for setting a test ground truth values
+  - people_count.xlsx: The file export from code to the use of the Tableau monitoring system
+  - rep_result.mp4: The output MP4 file from the code with tracking and people count
