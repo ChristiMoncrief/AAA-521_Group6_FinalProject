@@ -1,5 +1,54 @@
 # AAA-521_Group6_FinalProject
 Introduction to Computer Vision (AAI-521-02) Group 6 Final Project Repository 
+# Computer Vision Detection: Edge IOT Device for Counting People in a Region of Interest
+This project is a part of the AAI-521 course (Introduction to Computer Vision) in the Applied Artifical Intelligence Program at the University of San Diego (USD).  
+
+-- Project Status: Active
+
+## Installation
+To use this project, clone the repo on your device using the following commands:
+
+git init
+git clone https://github.com/ChristiMoncrief/AAA-521_Group6_FinalProject.git
+
+Selected, required Python packages/libraries:
+- Ultralytics
+- OpenCV
+Built for use on Google Colab
+
+Some sample MP4 files for testing the application are available here:
+https://drive.google.com/drive/folders/1zoxgqLXM8NqyILnVPmslzfABh32uInDW
+
+## Project Intro
+In an era where managing space occupancy is crucial for both safety and efficiency, our
+project embarks on solving a pertinent problem: accurately counting and monitoring the number
+of people in designated regions of interest. This challenge, prevalent in scenarios ranging from
+public events to private gatherings, demands a solution that is not only precise but also adaptable
+to different environments. This solution offers a number of uses case capabilities.
+- Monitor the count of people in various zones within a site and get predictable analytics
+for customer arrival pattern
+- Controlling maximum entry numbers in a particular area and thereby adhere to social
+distancing guidelines
+- Capture images/video for a customer’s demographics or interest profile, their shopping
+journey to get analytics
+- Ability to understand busiest and quietest hours
+- Set queue occupancy levels, no. of cash counters and measure customer billing/ service
+time
+- Set and receive alerts and/or notifications via audio, visual, email or text when these
+capacity limits are approaching or reached
+
+**Contributors:**
+- Adam Graves
+- Christi Moncrief
+- Reed Oken
+
+**Methods Used:**
+- Computer vision
+- Machine learning
+- IoT
+
+**Project Schedule**
+
 ## Meeting 1
 - Introductions of the team members
 - Discussion/Brainstrom the project ideas, resources, strength and weaknesses
@@ -52,3 +101,17 @@ Introduction to Computer Vision (AAI-521-02) Group 6 Final Project Repository
   - people_count.xlsx: The file export from code to the use of the Tableau monitoring system
   - rep_result.mp4: The output MP4 file from the code with tracking and people count
   - Tableau link: https://public.tableau.com/app/profile/adam.graves8577/viz/AAI521-T6/Dashboard1#1
+ ## Meeting 6 12/10/2023
+ - Finalize code updates
+ - Finalize the Project documentation
+ - Finalize the Video Presentation
+ - Organize the GitHub
+## Final Day 12/11/2023
+- Organize last changes
+- Add the Video presentation to a YouTube link
+- Check all links make sure all work
+- Finalize the GitHub repository, clean as needed
+- Last verifications
+- Team sign-off
+- Submission of project
+## END
