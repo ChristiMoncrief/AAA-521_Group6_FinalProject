@@ -47,7 +47,7 @@ capacity limits are approaching or reached
 - Machine learning
 - IoT
 
-**Project Schedule**
+# Project Schedule
 
 ## Meeting 1
 - Introductions of the team members
